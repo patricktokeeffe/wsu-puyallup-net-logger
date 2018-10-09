@@ -60,7 +60,7 @@ Notes:
 
 * Wiring diagrams
     * [Version last updated by PI](Wiring%20Info%20for%20Yadama%20Walls.xlsx)
-    * [Refactored for thermistor inputs](Wiring%20Info%20for%20Yadama%20Walls%20(new%20MUX%20inputs).xlsx)
+    * [Refactoring for thermistor inputs](Wiring%20Info%20for%20Yadama%20Walls%20(new%20MUX%20inputs).xlsx) **WIP**
 * [Images of installation](images/)
 * Multiplexer layout:  
   ![MUX layout](mux_layout.png)
