@@ -24,7 +24,8 @@
     * Identifies possible typos
     * Suggests circuit revision for HTM2500 RH measurements (tie DF input low
       side to earth)
-
+* [x] Wiring diagram reviewed by PI
+    * Returned with some edits
 
 
 ### Resources
