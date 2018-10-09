@@ -26,16 +26,18 @@
       side to earth)
 * [x] Wiring diagram reviewed by PI
     * Returned with some edits
+* [x] On-site visit by PI
+    * Review flagged cells... and update wiring diagram
+    * Take photos of installation
+    * Positively identify each MUX unit
 
 
 ### Resources
 
 * [Wiring diagram](Wiring%20Info%20for%20Yadama%20Walls.xlsx)
-
-Photos of installed hardware:
-
-![Data acquisition panel](images/daq_panels.jpg)
-![Sensor walls](images/sensor_walls.jpg)
+* [Images of installation](images/)
+* Multiplexer layout:  
+  ![MUX layout](mux_layout.png)
 
 
 ### References
