@@ -17,6 +17,16 @@
     * (9) AM16/32A multiplexer ([AM16/32A; Campbell Scientific](https://www.campbellsci.com/am16-32a))
     * (1) datalogger ([CR1000; Campbell Scientific](https://www.campbellsci.com/cr1000))
 
+
+### Current Status
+
+* [x] Reviewed wiring diagram
+    * Identifies possible typos
+    * Suggests circuit revision for HTM2500 RH measurements (tie DF input low
+      side to earth)
+
+
+
 ### Resources
 
 * [Wiring diagram](Wiring%20Info%20for%20Yadama%20Walls.xlsx)
